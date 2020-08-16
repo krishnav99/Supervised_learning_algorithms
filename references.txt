@@ -1,0 +1,49 @@
+adam
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+
+keras
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+keras
+https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37
+
+batch and epoch
+https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+
+learning curve
+https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
+
+evaluating skill of deep learning
+https://machinelearningmastery.com/evaluate-skill-deep-learning-models/
+-train set split
+
+data visualization
+https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7
+
+
+A Hybrid Intelligent System Framework for the Prediction of Heart Disease Using Machine Learning Algorithms
+https://www.hindawi.com/journals/misy/2018/3860146/
+
+knn
+https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
+
+Feature Scaling
+
+How the Parameters of K-nearest Neighbor Algorithm Impact on the Best Classification Accuracy: In Case of Parkinson Dataset
+https://scialert.net/fulltextmobile/?doi=jas.2014.171.176
+
+Analysis Of Heart Diseases Dataset Using Neural Network Approach
+https://www.researchgate.net/publication/51944418_Analysis_Of_Heart_Diseases_Dataset_Using_Neural_Network_Approach
+
+mlnp
+http://www.iraj.in/journal/journal_file/journal_pdf/6-71-140490825388-92.pdf
+
+dropout
+http://jmlr.org/papers/v15/srivastava14a.html
+
+Dataset
+https://archive.ics.uci.edu/ml/datasets/heart+Disease
+
+time efficiency 
+space efficiency
+ 
